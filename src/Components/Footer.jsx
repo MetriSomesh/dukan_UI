@@ -34,7 +34,9 @@ function Footer() {
         -----
         <div>
           <div className="text-netural-300 underline">
-            <a href="">Get the source code</a>
+            <a href="https://github.com/MetriSomesh/dukan_UI">
+              Get the source code
+            </a>
           </div>
         </div>
       </div>
